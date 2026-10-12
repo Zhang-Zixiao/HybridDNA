@@ -1,0 +1,8 @@
+numpy>=1.24,<3
+scipy>=1.10,<2
+numba>=0.57,<1
+pyldpc==0.7.9
+reedsolo==1.7.0
+biopython>=1.81,<2
+Levenshtein>=0.25,<1
+pyspoa==0.3.2; sys_platform != 'win32'
